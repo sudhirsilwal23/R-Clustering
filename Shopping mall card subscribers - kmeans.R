@@ -13,7 +13,7 @@ library(cluster)
 # Step : 2 Data Preprocessing
 #--------------------------------------------------------------------------------
          #2(a) Importing the dataset
-dataset = read.csv('Shopping_Mall_Customers.csv')
+dataset = read.csv('Shopping_mall_card_subscribers.csv')
 dataset = dataset[4:5]
 
 --------------------------------------------------------------------------------
